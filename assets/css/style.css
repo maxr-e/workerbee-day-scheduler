@@ -57,3 +57,14 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+.title {
+  background-color: darkgoldenrod;
+  text-align: center;
+}
+
+.subtitle {
+  background-color: slategrey;
+  text-align: center;
+  color: burlywood;
+}
