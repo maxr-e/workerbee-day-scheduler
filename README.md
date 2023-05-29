@@ -23,12 +23,11 @@ WorkerBee Day Scheduler (Ch#5) utilizes third-party APIs with local storage to c
 
   Screenshots of project in action:
 
-  ![alt text](assets/images/screenshot.png)
+  ![scheduler screenshot](./assets/images/workerbee_screenshot.png)
   
 ## Tests
   N/A
-  (Optional)
-  Write tests for your application if applicable. Then provide examples on how to run them here.
+
   
 ## Contributing
 
@@ -64,8 +63,7 @@ Copyright Unknown
         OTHER DEALINGS IN THE SOFTWARE.
 
 ## Badges
-(Optional)
-Badges may be hosted by [shields.io](https://shields.io/).
+
 
 ## Contact Me
   * GitHub: maxr-e
